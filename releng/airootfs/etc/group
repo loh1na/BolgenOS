@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:bolgenos
+wheel:x:10:bolgenos
+uucp:x:14:bolgenos
+bolgenos:x:1000:

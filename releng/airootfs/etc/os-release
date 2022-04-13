@@ -1,0 +1,9 @@
+NAME="BolgenOS"
+PRETTY_NAME="BolgenOS beta v2"
+ID=bolgenos
+VERSION_ID=2.0
+BUILD_ID=rolling
+ANSI_COLOR="35;1"
+HOME_URL="https://github.com/loh1na"
+VERSION_CODENAME="pretty wallpapers"
+LOGO=/etc/bolgenos-popov.jpg
