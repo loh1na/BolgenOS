@@ -57,7 +57,7 @@ lvm2
 lynx
 man-db
 man-pages
-mc
+#mc
 mdadm
 memtest86+
 mkinitcpio
@@ -75,7 +75,7 @@ ntfs-3g
 nvme-cli
 openconnect
 openssh
-openvpn
+#openvpn
 partclone
 parted
 partimage
@@ -88,7 +88,7 @@ refind
 reflector
 reiserfsprogs
 rp-pppoe
-rsync
+#rsync
 rxvt-unicode-terminfo
 screen
 sdparm
@@ -129,12 +129,13 @@ firefox
 vlc
 konsole
 dolphin
-plymouth
 flatpak
 python-pip
 grub
 git
-
+sddm
+sddm-kcm
+kinfocenter
 
 ## packages from bolgenos repository 
 #calamares-git
@@ -142,3 +143,4 @@ git
 #ckbcomp
 pamac-aur
 libpamac-aur
+plymouth
