@@ -1,2 +1,2 @@
-# BolgenOS-
-new version of BolgenOS build on archlinux
+# BolgenOS-testing
+testing branch for bolgenos
