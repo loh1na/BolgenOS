@@ -121,12 +121,9 @@ zsh
 xorg
 xf86-video-ati
 xf86-video-intel
-nvidia
-nvidia-utils
-plasma-meta
-calamares-git
-mkinitcpio-openswap
-ckbcomp
+#nvidia
+#nvidia-utils
+plasma-desktop
 kmix
 firefox
 vlc
@@ -136,3 +133,12 @@ plymouth
 flatpak
 python-pip
 grub
+git
+
+
+## packages from bolgenos repository 
+#calamares-git
+#mkinitcpio-openswap
+#ckbcomp
+pamac-aur
+libpamac-aur
